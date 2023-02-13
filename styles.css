@@ -4,13 +4,8 @@
     width: 200px;
     background-color: purple;
     padding: 10px;
-}
-.left{
     border-left: 5px solid green;
-}
-.text{
     font-size: 20px;
-}
-.heading{
     color: white;
 }
+
