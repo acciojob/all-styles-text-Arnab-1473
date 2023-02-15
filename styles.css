@@ -1,14 +1,16 @@
 
 /* Your CSS Code here. */
+h1{
+    color: white;
+}
 .container{
     width: 200px;
     background-color: purple;
-    padding: 10px;
-    border-left: 5px solid green;     
-}
-h1{
-    color: white;
+    /* padding: 10px; */
+    border-left: 5px solid green; 
     font-size: 20px;
-    margin: 0;
-    text-decoration: underline;
+    color: white;    
+}
+div{
+    padding: 10px;
 }
